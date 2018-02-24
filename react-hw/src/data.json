@@ -1,0 +1,62 @@
+[
+    {
+    "id": 1,
+    "image": "/assets/images/Ellie.jpg",
+    "clicked": false
+    },
+    {
+    "id": 2,
+    "image": "/assets/images/Fire-Emblem.png",
+    "clicked": false
+    },
+    {
+    "id": 3,
+    "image": "/assets/images/Geralt.jpg",
+    "clicked": false
+    },
+    {
+    "id": 4,
+    "image": "/assets/images/issac-clark.jpg",
+    "clicked": false
+    },
+    {
+    "id": 5,
+    "image": "/assets/images/Link.png",
+    "clicked": false
+    },
+    {
+    "id": 6,
+    "image": "/assets/images/Mario.png",
+    "clicked": false
+    },
+    {
+    "id": 7,
+    "image": "/assets/images/master-chief.jpg",
+    "clicked": false
+    },
+    {
+    "id": 8,
+    "image": "/assets/images/nathan-drake.png",
+    "clicked": false
+    },
+    {
+    "id": 9,
+    "image": "/assets/images/Persona5.png",
+    "clicked": false
+    },
+    {
+    "id": 10,
+    "image": "/assets/images/Shulk.png",
+    "clicked": false
+    },
+    {
+    "id": 11,
+    "image": "/assets/images/Payday-Wolf.png",
+    "clicked": false
+    },
+    {
+    "id": 12,
+    "image": "/assets/images/DankSoul.png",
+    "clicked": false
+    }
+    ]
