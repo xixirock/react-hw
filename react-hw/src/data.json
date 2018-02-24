@@ -1,61 +1,73 @@
 [
     {
     "id": 1,
+    "name": "Ellie",
     "image": "/assets/images/Ellie.jpg",
     "clicked": false
     },
     {
     "id": 2,
+    "name": "Lucina",
     "image": "/assets/images/Fire-Emblem.png",
     "clicked": false
     },
     {
     "id": 3,
+    "name": "Geralt",
     "image": "/assets/images/Geralt.jpg",
     "clicked": false
     },
     {
     "id": 4,
+    "name": "Issac",
     "image": "/assets/images/issac-clark.jpg",
     "clicked": false
     },
     {
     "id": 5,
+    "name": "Link",
     "image": "/assets/images/Link.png",
     "clicked": false
     },
     {
     "id": 6,
+    "name": "Mario",
     "image": "/assets/images/Mario.png",
     "clicked": false
     },
     {
     "id": 7,
+    "name": "Master Chief",
     "image": "/assets/images/master-chief.jpg",
     "clicked": false
     },
     {
     "id": 8,
+    "name": "Nathan",
     "image": "/assets/images/nathan-drake.png",
     "clicked": false
     },
     {
     "id": 9,
+    "name": "Persona",
     "image": "/assets/images/Persona5.png",
     "clicked": false
     },
     {
     "id": 10,
+    "name": "Shulk",
     "image": "/assets/images/Shulk.png",
     "clicked": false
     },
     {
     "id": 11,
+    "name": "Wolf",
     "image": "/assets/images/Payday-Wolf.png",
     "clicked": false
     },
     {
     "id": 12,
+    "name": "Dank Soul",
     "image": "/assets/images/DankSoul.png",
     "clicked": false
     }
